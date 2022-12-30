@@ -29,7 +29,7 @@ Why not use a framework?
 - Kirejczyk, M.: "[Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.xzb70jlwe)", Medium, 2016-11
 - Vaccari, Matteo: "[No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019)", Extreme Enthusiasm, 2017-09 - *How NOT using a framework delivered faster*. 
 - Vaccari, Matteo: "[No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022)", Extreme Enthusiasm, 2017-09 - *How NOT using a framework delivered faster*. 
-- Arias Ambriz, J.-C.: "[Front-end Frameworks: Solutions or Bloated Problems?](https://www.toptal.com/javascript/are-big-front-end-frameworks-bad)", Toptal, 2017-12
+- Arias Asoumbriz, J.-C.: "[Front-end Frameworks: Solutions or Bloated Problems?](https://www.toptal.com/javascript/are-big-front-end-frameworks-bad)", Toptal, 2017-12
 - Van Neerven, M.: "[The Naked SPA — Part I — Vanilla you Say?](https://medium.com/cto-as-a-service/the-naked-spa-part-i-96980aa1e9f9)", Medium, 2020-07
 - Van Neerven, M.: "[The Naked SPA — Part II — A Pragmatic Approach to JavaScript Frameworks](https://medium.com/cto-as-a-service/the-naked-spa-part-ii-a-pragmatic-approach-to-javascript-frameworks-85601a36101f)", Medium, 2020-08
 - Beau, J.: "[Design: #noFramework](https://javarome.medium.com/design-noframework-bbc00a02d9b3)", Medium, 2022-02
@@ -45,7 +45,7 @@ Examples of doing it:
 - Reactivity
   - Strazzullo, F.: "[Create a fully Reactive UI Framework with JavaScript Proxies and Virtual DOM](https://medium.com/flowingis/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776)", Medium, 2016-11
 - Full apps
-  - [Soundslice](https://www.soundslice.com)
+  - [Soundslice](https://www.soundslice.com) ([repo](https://github.com/soundslice))
 
 Libraries, recipes and toolboxes: 
 
