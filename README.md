@@ -36,7 +36,7 @@ Why not use a framework?
 
 Why Vanilla is important?
 
-- Darveau, Francois-Xavier P.: [You SHOULD Learn Vanilla JavaScript Before JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
+- Darveau, Francois-Xavier P.: "[You SHOULD Learn Vanilla JavaScript Before JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)", Snipcart, 2022-03
 
 ## How to
 
