@@ -34,6 +34,10 @@ Why not use a framework?
 - Van Neerven, M.: "[The Naked SPA — Part II — A Pragmatic Approach to JavaScript Frameworks](https://medium.com/cto-as-a-service/the-naked-spa-part-ii-a-pragmatic-approach-to-javascript-frameworks-85601a36101f)", Medium, 2020-08
 - Beau, J.: "[Design: #noFramework](https://javarome.medium.com/design-noframework-bbc00a02d9b3)", Medium, 2022-02
 
+Why Vanilla is important?
+
+- Darveau, Francois-Xavier P.: [You SHOULD Learn Vanilla JavaScript Before JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
+
 ## How to
 
 Examples of doing it:
