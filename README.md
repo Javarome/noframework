@@ -67,3 +67,8 @@ Libraries, recipes and toolboxes:
 ## Web components
 
 - Hawkins, T: "[Web Component Solutions: A Comparison"](https://levelup.gitconnected.com/web-component-solutions-a-comparison-e2fa25c34730), Medium, 2020-07
+
+# Companies
+
+## Consulting
+- [Cantilever](https://cantilever.co/)'s [Vanilla JS approach](https://www.notion.so/Our-Javascript-Approach-28cb3016a1eb477cbf8ca3a2cd05fca6)
